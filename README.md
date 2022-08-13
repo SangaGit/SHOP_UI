@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-React base E-Commerce web application for a mobile shop
+React based E-Commerce web application for a mobile shop
 
 ## Available Scripts
 
