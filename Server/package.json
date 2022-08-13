@@ -1,0 +1,14 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "json-server for shop-ui",
+	"main": "index.js",
+	"scripts": {
+		"start": "json-server -p 3500 -w db.json"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	}
+}

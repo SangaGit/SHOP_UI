@@ -1,0 +1,77 @@
+{
+	"posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+	"comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+	"profile": { "name": "typicode" },
+	"products": [
+		{
+			"id": "1",
+			"name": "Prod 1",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "iphonex.jpeg"
+		},
+		{
+			"id": "2",
+			"name": "Prod 2",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "iphone-1.jpeg"
+		},
+		{
+			"id": "3",
+			"name": "Prod 3",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "iphone-2.jpeg"
+		},
+		{
+			"id": "4",
+			"name": "Prod 4",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "samsung-1.jpeg"
+		},
+		{
+			"id": "5",
+			"name": "Prod 5",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "nokia-1.jpeg"
+		},
+		{
+			"id": "6",
+			"name": "Prod 6",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "nokia-2.jpeg"
+		},
+		{
+			"id": "7",
+			"name": "Prod 7",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "alcatel-1.jpeg"
+		},
+		{
+			"id": "8",
+			"name": "Prod 8",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "alcatel-2.jpeg"
+		},
+		{
+			"id": "9",
+			"name": "Prod 9",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "iphonex.jpeg"
+		},
+		{
+			"id": "10",
+			"name": "Prod 10",
+			"amount": "10",
+			"summary": "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
+			"imageFile": "iphonex.jpeg"
+		}
+	]
+}
